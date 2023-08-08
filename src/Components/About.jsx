@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/watercolor.png";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,19 +24,25 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a young creative and self motivated web developer, studying at Ekiti State University (Ado-Ekiti, Ekiti) Nigeria. I have 2+ years work experience in building profitable and unique products , I am always ready to learn new technologies to improve on my skills. I am also a data science enthusiast currently learning the ins and outs of machine learning and data science.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Web development",
   "User experience",
   "Inclusive design",
   "Focus group testing",
   "Mobile user interfaces",
-  "Graphic design",
+  "QA",
+  "Problem Solving",
+  'Python',
+  'React.js',
+  'SASS',
+  'MongoDB',
+  'Node.js',
 ];
 
 /**
