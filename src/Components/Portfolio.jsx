@@ -31,6 +31,18 @@ const imageAltText = "My personal picture";
  */
 const projectList = [
   {
+    title: "Multi Translator app",
+    description:
+      "A translattor app that  supports multiple languages at once.",
+    url: "https://multi-language-translator.vercel.app/",
+  },
+  {
+    title: "Stackbuild",
+    description:
+      "A blog site that calls api from https://dummyapi.io/data/v1.",
+    url: "https://stackbuild-two.vercel.app/",
+  },
+  {
     title: "Unique Writers",
     description:
       "A blog site made with React.js, MongoDB, Express.js and Node.js where users can apply to be writers and write stories for readers",
@@ -60,7 +72,7 @@ const Portfolio = () => {
   return (
     <section className="padding" id="portfolio">
       <h2 style={{ textAlign: "center" }}>Portfolio</h2>
-      <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
+      <div className="main-con">
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
             src={image}
