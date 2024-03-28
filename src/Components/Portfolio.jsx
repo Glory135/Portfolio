@@ -32,14 +32,23 @@ const imageAltText = "My personal picture";
 const projectList = [
   {
     title: "Multi Translator app",
-    description:
-      "A translattor app that  supports multiple languages at once.",
+    description: "A translattor app that  supports multiple languages at once.",
     url: "https://multi-language-translator.vercel.app/",
   },
   {
-    title: "Stackbuild",
+    title: "ChatRoom",
     description:
-      "A blog site that calls api from https://dummyapi.io/data/v1.",
+      "A web app where people can come together and chat about random stuff, can create private rooms that can only be accessible by private keys.",
+    url: "https://chat-room-sooty.vercel.app/",
+  },
+  {
+    title: "CGPA calculator",
+    description: "A web app for students to calculate their cgpas",
+    url: "https://gpa-frontend-one.vercel.app/",
+  },
+  {
+    title: "Stackbuild",
+    description: "A blog site that calls api from https://dummyapi.io/data/v1.",
     url: "https://stackbuild-two.vercel.app/",
   },
   {
