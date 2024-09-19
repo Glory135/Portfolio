@@ -45,6 +45,7 @@ const skillsList = [
   "Node.js",
   "Nestjs",
   "SASS",
+  "Git, Github"
 ];
 
 /**
