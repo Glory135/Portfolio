@@ -32,17 +32,19 @@ const description =
  */
 const skillsList = [
   "Web development",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Responsive design",
   "Mobile user interfaces",
   "QA",
   "Problem Solving",
   "Python",
-  "React.js",
-  "SASS",
+  "Reactjs",
+  "Nextjs",
+  "REDUX",
+  "APIs",
   "MongoDB",
   "Node.js",
+  "Nestjs",
+  "SASS",
 ];
 
 /**
